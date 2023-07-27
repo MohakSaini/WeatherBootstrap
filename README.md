@@ -1,4 +1,4 @@
-Live version: https://eager-hamilton-724cee.netlify.app/
+Live version: https://eagerpradeepweather.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
